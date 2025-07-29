@@ -2,8 +2,15 @@
 
 Este proyecto muestra los repositorios públicos de la organización [StackBuilders](https://github.com/stackbuilders) usando una arquitectura **frontend + backend**:
 
+
 - 📦 **Backend:** Node.js + Express + GitHub API
 - 💻 **Frontend:** React (Create React App)
+
+## Screenshots
+<img width="1459" height="800" alt="image" src="https://github.com/user-attachments/assets/bdbbdcb3-a66b-444e-a077-f6f16620cb5a" />
+<img width="1456" height="804" alt="image" src="https://github.com/user-attachments/assets/9ecb69bf-c2a4-4783-9767-33e06cc0ca4a" />
+
+
 
 ---
 
@@ -52,4 +59,7 @@ npm start
 ```
 ## Autor
 Developed by @xaviercarpio13 ✌️
+
+
+
 
